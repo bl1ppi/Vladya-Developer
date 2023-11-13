@@ -5,9 +5,9 @@
 #### https://play.google.com/store/apps/dev?id=8335961609205817664
 
 ### Contacts📫:
-#### t.me/sxturn_developer
+#### t.me/vladya_developer
 
 <!---
-YoLoo-Developer/YoLoo-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vladya-Developer/Vladya-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
