@@ -5,7 +5,7 @@
 #### https://play.google.com/store/apps/dev?id=8335961609205817664
 
 ### Contacts📫:
-#### t.me/vladya_developer
+#### t.me/bl1ppi
 
 <!---
 Vladya-Developer/Vladya-Developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
